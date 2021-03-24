@@ -1,2 +1,2 @@
 # StarbucksSite
-Hello Dude. I create first Repository Starbucks.
+Hello Dude. I create first Repository Starbucks Site.
